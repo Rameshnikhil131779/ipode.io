@@ -1,10 +1,6 @@
 # ipode.io
-# nikhill.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+
+
 </head>
 <form><body style="background-color: aqua;">
     <marquee align="center" direction="right" width="50%" behavior="alternate">Enter Correct Details</marquee>
@@ -100,5 +96,4 @@
 
 </form>
 
-</body>
-</html>
+
